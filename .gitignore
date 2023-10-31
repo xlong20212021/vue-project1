@@ -21,4 +21,7 @@ yarn-error.log*
 *.njsproj
 *.sln
 *.sw?
+*.sw
+*.suo
+*runa a game
 
